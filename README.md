@@ -1,4 +1,6 @@
-# login-vuejs
+# vue-api
+
+Proyecto que consume la api symfony-api: https://github.com/Sergio-Saiz/symfony-api
 
 ## Project setup
 ```
@@ -15,5 +17,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
